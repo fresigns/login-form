@@ -1,0 +1,5 @@
+1) ng new login-form-project --directory ./ --skip-tests
+2) creo i miei components
+ng g c components/nome --standalone
+3) aggiungo le routes
+  {path: 'home', component: HomeComponent},
